@@ -16,7 +16,6 @@
       android:icon="@mipmap/ic_launcher"
       android:theme="@style/AppTheme"
       tools:node="replace"
-      android:usesCleartextTraffic="true"
     >
       <activity
         android:name=".MainActivity"
